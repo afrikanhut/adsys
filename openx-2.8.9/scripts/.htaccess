@@ -1,2 +1,2 @@
-# Deny all users web access to this directory
-Deny from all
+# Allow all users web access to this directory
+Allow from all
